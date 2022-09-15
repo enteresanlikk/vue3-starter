@@ -1,0 +1,26 @@
+{
+    "header": {
+        "home": "Ana Sayfa",
+        "todos": "Yapılacaklar",
+        "about": "Hakkında",
+        "contact": "İletişim"
+    },
+    "hero": {
+        "todos": {
+            "title": "Yapılacaklar",
+            "summary": "Yapılacaklar listesi"
+        },
+        "about": {
+            "title": "Hakkında",
+            "summary": "Hakkında sayfasıdır."
+        },
+        "contact": {
+            "title": "İletişim",
+            "summary": "İletişim sayfasıdır."
+        },
+        "not_found": {
+            "title": "404",
+            "summary": "Sayfa bulunamadı"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "header": {
+        "home": "Home",
+        "todos": "Todos",
+        "about": "About",
+        "contact": "Contact"
+    },
+    "hero": {
+        "todos": {
+            "title": "Todos",
+            "summary": "This is the todos page"
+        },
+        "about": {
+            "title": "About",
+            "summary": "This is the about page"
+        },
+        "contact": {
+            "title": "Contact",
+            "summary": "This is the contact page"
+        },
+        "not_found": {
+            "title": "404",
+            "summary": "Page not found"
+        }
+    }
+}
