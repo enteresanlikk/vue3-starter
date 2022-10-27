@@ -1,5 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router';
-import { useI18n } from 'vue-i18n'
+import { createRouter, createWebHistory } from 'vue-router'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -30,7 +29,7 @@ const router = createRouter({
       component: () => import('@/pages/NotFound.vue')
     }
   ]
-});
+})
 
 router.beforeEach((to, from, next) => {
   next()
